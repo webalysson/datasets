@@ -1,0 +1,52 @@
+Estado,Sigla,Região,Divisão
+Alaska,ak,West,Pacific
+Alabama,al,South,East South Central
+Arkansas,ar,South,West South Central
+Arizona,az,West,Mountain
+California,ca,West,Pacific
+Colorado,co,West,Mountain
+Connecticut,ct,Northeast,New England
+District of Columbia,dc,South,South Atlantic
+Delaware,de,South,South Atlantic
+Florida,fl,South,South Atlantic
+Georgia,ga,South,South Atlantic
+Hawaii,hi,West,Pacific
+Iowa,ia,Midwest,West North Central
+Idaho,id,West,Mountain
+Illinois,il,Midwest,East North Central
+Indiana,in,Midwest,East North Central
+Kansas,ks,Midwest,West North Central
+Kentucky,ky,South,East South Central
+Louisiana,la,South,West South Central
+Massachusetts,ma,Northeast,New England
+Maryland,md,South,South Atlantic
+Maine,me,Northeast,New England
+Michigan,mi,Midwest,East North Central
+Minnesota,mn,Midwest,West North Central
+Missouri,mo,Midwest,West North Central
+Mississippi,ms,South,East South Central
+Montana,mt,West,Mountain
+North Carolina,nc,South,South Atlantic
+North Dakota,nd,Midwest,West North Central
+Nebraska,ne,Midwest,West North Central
+New Hampshire,nh,Northeast,New England
+New Jersey,nj,Northeast,Middle Atlantic
+New Mexico,nm,West,Mountain
+Nevada,nv,West,Mountain
+New York,ny,Northeast,Middle Atlantic
+Ohio,oh,Midwest,East North Central
+Oklahoma,ok,South,West South Central
+Oregon,or,West,Pacific
+Pennsylvania,pa,Northeast,Middle Atlantic
+Rhode Island,ri,Northeast,New England
+South Carolina,sc,South,South Atlantic
+South Dakota,sd,Midwest,West North Central
+Tennessee,tn,South,East South Central
+Texas,tx,South,West South Central
+Utah,ut,West,Mountain
+Virginia,va,South,South Atlantic
+Vermont,vt,Northeast,New England
+Washington,wa,West,Pacific
+Wisconsin,wi,Midwest,East North Central
+West Virginia,wv,South,South Atlantic
+Wyoming,wy,West,Mountain
