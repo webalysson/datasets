@@ -1,0 +1,892 @@
+Survived,Pclass,Sex,SibSp,Parch,Ticket,Embarked,AgeIn,Title,alone,FareIn
+Morreu,3,male,1,0,A/5 21171,S,Adulto Jovem,Mr,1,0.0
+Sobreviveu,1,famale,1,0,PC 17599,C,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,STON/O2. 3101282,S,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,1,0,113803,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,373450,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,330877,Q,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,17463,S,Idoso,Mr,0,2.0
+Morreu,3,male,3,1,349909,S,Criança,Master,1,2.0
+Sobreviveu,3,famale,0,2,347742,S,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,2,famale,1,0,237736,C,Jovem,Mrs,1,1.0
+Sobreviveu,3,famale,1,1,PP 9549,S,Criança,Miss,1,0.0
+Sobreviveu,1,famale,0,0,113783,S,Idoso,Miss,0,1.0
+Morreu,3,male,0,0,A/5. 2151,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,1,5,347082,S,Adulto,Mr,1,2.0
+Morreu,3,famale,0,0,350406,S,Jovem,Miss,0,0.0
+Sobreviveu,2,famale,0,0,248706,S,Idoso,Mrs,0,0.0
+Morreu,3,male,4,1,382652,Q,Criança,Master,1,2.0
+Sobreviveu,2,male,0,0,244373,S,Adulto,Mr,0,0.0
+Morreu,3,famale,1,0,345763,S,Adulto,Mrs,1,0.0
+Sobreviveu,3,famale,0,0,2649,C,Adulto,Mrs,0,2.0
+Morreu,2,male,0,0,239865,S,Adulto,Mr,0,1.0
+Sobreviveu,2,male,0,0,248698,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,330923,Q,Jovem,Miss,0,0.0
+Sobreviveu,1,male,0,0,113788,S,Adulto Jovem,Mr,0,1.0
+Morreu,3,famale,3,1,349909,S,Criança,Miss,1,2.0
+Sobreviveu,3,famale,1,5,347077,S,Adulto,Mrs,1,1.0
+Morreu,3,male,0,0,2631,C,Adulto,Mr,0,2.0
+Morreu,1,male,3,2,19950,S,Adulto Jovem,Mr,1,2.0
+Sobreviveu,3,famale,0,0,330959,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,349216,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,PC 17601,C,Adulto,Rare,0,1.0
+Sobreviveu,1,famale,1,0,PC 17569,C,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,335677,Q,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,0,0,C.A. 24579,S,Idoso,Mr,0,0.0
+Morreu,1,male,1,0,PC 17604,C,Adulto Jovem,Mr,1,2.0
+Morreu,1,male,1,0,113789,S,Adulto,Mr,1,2.0
+Sobreviveu,3,male,0,0,2677,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,A./5. 2152,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,2,0,345764,S,Jovem,Miss,1,0.0
+Sobreviveu,3,famale,1,0,2651,C,Jovem,Miss,1,0.0
+Morreu,3,famale,1,0,7546,S,Adulto,Mrs,1,2.0
+Morreu,2,famale,1,0,11668,S,Adulto Jovem,Mrs,1,0.0
+Morreu,3,male,0,0,349253,C,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,2,SC/Paris 2123,C,Criança,Miss,1,1.0
+Sobreviveu,3,famale,0,0,330958,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,S.C./A.4. 23567,S,Adulto,Mr,0,0.0
+Morreu,3,male,1,0,370371,Q,Adulto,Mr,1,0.0
+Sobreviveu,3,famale,0,0,14311,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,2,0,2662,C,Adulto,Mr,1,0.0
+Morreu,3,famale,1,0,349237,S,Jovem,Mrs,1,0.0
+Morreu,3,male,4,1,3101295,S,Criança,Master,1,1.0
+Morreu,3,male,0,0,A/4. 39886,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,1,0,PC 17572,C,Adulto,Mrs,1,2.0
+Sobreviveu,2,famale,1,0,2926,S,Adulto Jovem,Mrs,1,1.0
+Morreu,1,male,0,1,113509,C,Idoso,Mr,1,2.0
+Sobreviveu,1,male,0,0,19947,S,Adulto,Mr,0,1.0
+Sobreviveu,2,famale,0,0,C.A. 31026,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,2697,C,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,1,2,C.A. 34651,S,Criança,Miss,1,1.0
+Morreu,3,male,5,2,CA 2144,S,Criança,Master,1,1.0
+Morreu,3,male,0,0,2669,C,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,0,113572,,Adulto,Miss,0,2.0
+Morreu,1,male,1,0,36973,S,Adulto,Mr,1,2.0
+Morreu,3,male,3,2,347088,S,Criança,Master,1,1.0
+Morreu,1,male,0,0,PC 17605,C,Adulto,Mr,0,1.0
+Sobreviveu,3,male,1,1,2661,C,Criança,Master,1,0.0
+Sobreviveu,2,famale,0,0,C.A. 29395,S,Adulto Jovem,Mrs,0,0.0
+Morreu,3,male,0,0,S.P. 3464,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,4,2,3101281,S,Jovem,Miss,1,2.0
+Morreu,3,male,2,0,315151,S,Adulto Jovem,Mr,1,0.0
+Morreu,2,male,0,0,C.A. 33111,S,Adulto,Mr,0,0.0
+Morreu,3,famale,5,2,CA 2144,S,Jovem,Miss,1,1.0
+Morreu,2,male,0,0,S.O.C. 14879,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,1,0,2680,C,Adulto Jovem,Mr,1,0.0
+Sobreviveu,3,male,0,0,1601,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,348123,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,349208,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,374746,S,Adulto,Mr,0,0.0
+Sobreviveu,2,male,0,2,248738,S,Criança,Master,1,1.0
+Sobreviveu,3,famale,0,0,364516,S,Adulto Jovem,Miss,0,2.0
+Morreu,3,male,0,0,345767,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,male,0,0,345779,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,330932,Q,Adulto Jovem,Miss,0,0.0
+Morreu,1,male,0,0,113059,S,Adulto Jovem,Mr,0,1.0
+Sobreviveu,2,famale,0,0,SO/C 14885,S,Jovem,Miss,0,0.0
+Sobreviveu,3,famale,3,0,3101278,S,Adulto,Mrs,1,0.0
+Morreu,3,male,1,3,W./C. 6608,S,Jovem,Mr,1,2.0
+Morreu,3,male,0,0,SOTON/OQ 392086,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,3,2,19950,S,Adulto Jovem,Miss,1,2.0
+Morreu,3,male,0,0,343275,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,343276,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,347466,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,1,0,W.E.P. 5734,S,Adulto,Mr,1,2.0
+Morreu,3,male,1,2,C.A. 2315,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,364500,S,Idoso,Mr,0,0.0
+Morreu,3,male,0,0,374910,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,PC 17754,C,Idoso,Mr,0,1.0
+Sobreviveu,1,male,0,1,PC 17759,C,Adulto Jovem,Mr,1,2.0
+Sobreviveu,2,famale,0,1,231919,S,Adulto,Mrs,1,0.0
+Morreu,2,male,1,0,244367,S,Adulto,Mr,1,1.0
+Morreu,3,famale,0,0,349245,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,349215,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,1,35281,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,7540,S,Adulto,Mr,0,0.0
+Morreu,3,male,2,0,3101276,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,349207,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,343120,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,3,male,0,0,312991,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,349249,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,1,0,371110,Q,Adulto Jovem,Miss,1,0.0
+Morreu,1,male,0,0,110465,S,Adulto,Mr,0,2.0
+Morreu,3,famale,1,0,2665,C,Jovem,Miss,1,0.0
+Morreu,3,male,0,0,324669,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,1,0,4136,S,Adulto Jovem,Miss,1,2.0
+Morreu,3,famale,0,0,2627,C,Jovem,Miss,0,0.0
+Morreu,3,male,0,0,STON/O 2. 3101294,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,0,0,370369,Q,Idoso,Mr,0,0.0
+Morreu,2,male,1,0,11668,S,Adulto Jovem,Mr,1,0.0
+Morreu,1,male,0,1,PC 17558,C,Adulto Jovem,Mr,1,2.0
+Morreu,3,famale,4,2,347082,S,Criança,Miss,1,2.0
+Morreu,2,male,2,0,S.O.C. 14879,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,A4. 54510,S,Adulto,Mr,0,0.0
+Morreu,2,male,1,0,237736,C,Adulto,Mr,1,1.0
+Sobreviveu,2,famale,0,0,27267,S,Adulto,Miss,0,0.0
+Morreu,1,male,0,1,35281,S,Idoso,Mr,1,2.0
+Sobreviveu,3,male,1,0,2651,C,Criança,Master,1,0.0
+Morreu,3,male,0,0,370372,Q,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,C 17369,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,1,1,2668,C,Adulto Jovem,Miss,1,0.0
+Morreu,3,male,0,0,347061,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,349241,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101307,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,1,0,A/5. 3337,S,Adulto,Mrs,1,0.0
+Sobreviveu,2,famale,1,0,228414,S,Adulto Jovem,Mrs,1,1.0
+Morreu,2,male,0,0,C.A. 29178,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,SC/PARIS 2133,C,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,2,11752,S,Adulto Jovem,Miss,1,1.0
+Morreu,1,male,1,0,113803,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,7534,S,Jovem,Mr,0,0.0
+Morreu,1,male,0,0,PC 17593,C,Adulto Jovem,Mr,0,2.0
+Morreu,3,famale,0,2,2678,C,Adulto,Mrs,1,0.0
+Sobreviveu,3,famale,0,0,347081,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,3,famale,1,0,STON/O2. 3101279,S,Adulto Jovem,Mrs,1,0.0
+Morreu,3,male,0,0,365222,Q,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,231945,S,Jovem,Mr,0,0.0
+Morreu,2,male,1,1,C.A. 33112,S,Adulto Jovem,Mr,1,1.0
+Sobreviveu,3,male,0,0,350043,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,2,2,W./C. 6608,S,Criança,Miss,1,2.0
+Morreu,2,male,0,2,230080,S,Adulto,Mr,1,1.0
+Morreu,2,male,0,0,244310,S,Adulto,Rare,0,0.0
+Morreu,2,male,0,0,S.O.P. 1166,S,Idoso,Rare,0,2.0
+Sobreviveu,1,famale,1,0,113776,S,Adulto Jovem,Mrs,1,2.0
+Morreu,3,male,0,0,A.5. 11206,S,Idoso,Mr,0,0.0
+Morreu,3,male,0,2,A/5. 851,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,Fa 265302,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,1,PC 17597,C,Idoso,Mr,1,2.0
+Sobreviveu,3,famale,0,0,35851,Q,Jovem,Miss,0,0.0
+Morreu,3,male,0,0,SOTON/OQ 392090,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,315037,S,Adulto,Mr,0,0.0
+Morreu,3,male,8,2,CA. 2343,S,Criança,Master,1,2.0
+Morreu,3,male,0,1,371362,S,Adulto,Mr,1,0.0
+Sobreviveu,2,famale,0,0,C.A. 33595,S,Adulto,Mrs,0,0.0
+Morreu,3,male,0,0,347068,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,0,0,315093,S,Jovem,Mr,0,0.0
+Morreu,3,male,4,1,3101295,S,Criança,Master,1,1.0
+Sobreviveu,3,male,0,2,363291,S,Criança,Master,1,2.0
+Sobreviveu,1,famale,0,1,113505,S,Adulto,Mrs,1,2.0
+Morreu,3,famale,1,4,347088,S,Adulto,Mrs,1,1.0
+Morreu,1,male,0,0,PC 17318,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,1601,S,Adulto Jovem,Mr,0,2.0
+Morreu,1,male,0,0,111240,S,Idoso,Mr,0,1.0
+Morreu,3,male,4,1,382652,Q,Criança,Master,1,2.0
+Sobreviveu,3,famale,1,1,347742,S,Criança,Miss,1,0.0
+Morreu,3,male,0,0,STON/O 2. 3101280,S,Adulto Jovem,Mr,0,2.0
+Morreu,1,male,0,0,17764,C,Idoso,Mr,0,1.0
+Morreu,3,male,1,1,350404,S,Jovem,Mr,1,0.0
+Morreu,3,male,3,1,4133,S,Criança,Master,1,1.0
+Morreu,1,famale,0,0,PC 17595,C,Adulto,Miss,0,1.0
+Morreu,2,male,0,0,250653,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,LINE,S,Adulto,Mr,0,0.0
+Morreu,3,famale,8,2,CA. 2343,S,Adulto Jovem,Miss,1,2.0
+Morreu,2,male,0,0,SC/PARIS 2131,C,Adulto,Mr,0,0.0
+Morreu,3,male,4,2,347077,S,Criança,Master,1,1.0
+Sobreviveu,2,male,2,1,230136,S,Criança,Master,1,1.0
+Sobreviveu,3,famale,0,2,315153,S,Criança,Miss,1,2.0
+Morreu,1,male,0,0,113767,S,Adulto,Mr,0,1.0
+Sobreviveu,3,famale,1,0,370365,Q,Adulto,Mrs,1,0.0
+Sobreviveu,1,male,0,0,111428,S,Adulto,Mr,0,1.0
+Morreu,3,male,1,1,364849,Q,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,349247,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,0,0,234604,S,Adulto,Mrs,0,0.0
+Morreu,2,male,0,0,28424,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,1,0,350046,S,Adulto Jovem,Miss,1,0.0
+Sobreviveu,2,male,1,1,230080,S,Criança,Master,1,1.0
+Sobreviveu,1,famale,0,0,PC 17610,C,Adulto,Mrs,0,1.0
+Sobreviveu,1,famale,0,0,PC 17569,C,Idoso,Miss,0,2.0
+Morreu,3,male,0,0,368703,Q,Adulto,Mr,0,0.0
+Morreu,3,male,0,1,4579,S,Adulto,Mr,1,0.0
+Sobreviveu,3,famale,0,0,370370,Q,Adulto Jovem,Miss,0,0.0
+Morreu,2,famale,0,0,248747,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,345770,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,8,2,CA. 2343,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,3101264,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,2628,C,Adulto,Mr,0,2.0
+Sobreviveu,3,male,0,0,A/5 3540,S,Jovem,Mr,0,0.0
+Morreu,3,famale,0,1,347054,S,Criança,Miss,1,0.0
+Morreu,3,male,1,0,3101278,S,Adulto,Mr,1,0.0
+Sobreviveu,3,male,0,0,2699,C,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,367231,Q,Jovem,Miss,0,0.0
+Sobreviveu,1,male,0,0,112277,C,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101311,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,0,F.C.C. 13528,S,Adulto,Miss,0,0.0
+Morreu,3,male,0,0,A/5 21174,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,250646,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,1,0,367229,Q,Adulto,Mr,1,0.0
+Sobreviveu,1,famale,1,0,35273,C,Adulto,Miss,1,2.0
+Sobreviveu,3,famale,0,0,STON/O2. 3101283,S,Adulto Jovem,Miss,0,2.0
+Morreu,2,male,1,0,243847,S,Adulto,Mr,1,1.0
+Sobreviveu,1,famale,0,0,11813,C,Adulto,Miss,0,2.0
+Morreu,2,male,0,0,W/C 14208,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,male,0,0,SOTON/OQ 392089,S,Jovem,Mr,0,0.0
+Morreu,2,male,0,0,220367,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,21440,S,Idoso,Mr,0,0.0
+Morreu,3,male,0,0,349234,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,1,0,19943,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,PP 4348,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,male,0,0,SW/PP 751,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,A/5 21173,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,236171,S,Jovem,Mr,0,0.0
+Morreu,3,famale,3,1,4133,S,Adulto Jovem,Miss,1,1.0
+Sobreviveu,1,famale,1,0,36973,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,347067,S,Adulto Jovem,Mr,0,2.0
+Morreu,2,male,0,0,237442,S,Idoso,Mr,0,0.0
+Sobreviveu,3,famale,4,2,347077,S,Criança,Miss,1,1.0
+Morreu,2,male,0,0,C.A. 29566,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,0,0,W./C. 6609,S,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,1,0,26707,S,Adulto,Mr,1,1.0
+Sobreviveu,2,famale,0,2,C.A. 31921,S,Criança,Miss,1,1.0
+Morreu,2,male,0,0,28665,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,SCO/W 1585,S,Adulto,Mr,0,2.0
+Morreu,3,famale,1,0,2665,C,Adulto Jovem,Miss,1,0.0
+Sobreviveu,3,famale,1,0,367230,Q,Adulto Jovem,Miss,1,0.0
+Morreu,2,male,0,0,W./C. 14263,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,STON/O 2. 3101275,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,0,0,2694,C,Adulto Jovem,Mr,0,2.0
+Morreu,1,male,2,0,19928,Q,Adulto,Rare,1,2.0
+Morreu,3,famale,0,0,347071,S,Adulto Jovem,Miss,0,2.0
+Sobreviveu,2,famale,0,2,250649,S,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,1,male,1,1,11751,S,Adulto,Mr,1,2.0
+Morreu,2,male,1,0,244252,S,Idoso,Rare,1,1.0
+Morreu,3,male,0,0,362316,S,Adulto,Mr,0,0.0
+Morreu,3,famale,1,1,347054,S,Adulto Jovem,Mrs,1,0.0
+Morreu,1,male,0,0,113514,S,Idoso,Mr,0,1.0
+Morreu,3,male,1,0,A/5. 3336,S,Adulto Jovem,Mr,1,0.0
+Morreu,3,famale,0,2,370129,S,Adulto,Mrs,1,0.0
+Sobreviveu,3,famale,0,2,2650,C,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,1,famale,0,0,PC 17585,C,Adulto,Mrs,0,2.0
+Sobreviveu,1,famale,0,0,110152,S,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,0,0,PC 17755,C,Adulto,Miss,0,2.0
+Sobreviveu,2,famale,0,1,230433,S,Adulto,Mrs,1,1.0
+Morreu,3,male,0,0,384461,Q,Adulto,Mr,0,0.0
+Sobreviveu,3,male,4,2,347077,S,Criança,Master,1,1.0
+Morreu,1,male,1,1,110413,S,Idoso,Mr,1,2.0
+Morreu,1,male,0,0,112059,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,0,382649,Q,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,0,0,C.A. 17248,S,Adulto,Mr,0,0.0
+Morreu,3,male,4,1,3101295,S,Jovem,Mr,1,1.0
+Sobreviveu,3,male,1,0,347083,S,Adulto Jovem,Mr,1,2.0
+Sobreviveu,1,famale,0,1,PC 17582,S,Idoso,Mrs,1,2.0
+Sobreviveu,1,famale,0,0,PC 17760,S,Adulto,Miss,0,2.0
+Morreu,1,male,0,0,113798,S,Adulto,Mr,0,1.0
+Sobreviveu,3,male,0,0,LINE,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,1,250644,S,Adulto,Mrs,1,0.0
+Morreu,1,male,0,1,PC 17596,C,Adulto,Mr,1,1.0
+Sobreviveu,3,famale,0,0,370375,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,1,famale,1,0,13502,S,Idoso,Miss,1,2.0
+Morreu,3,famale,0,0,347073,S,Adulto,Miss,0,0.0
+Morreu,2,male,0,0,239853,S,Adulto,Mr,0,0.0
+Morreu,3,male,4,1,382652,Q,Criança,Master,1,2.0
+Sobreviveu,3,famale,1,1,C.A. 2673,S,Adulto,Mrs,1,0.0
+Morreu,3,male,0,0,336439,Q,Idoso,Mr,0,0.0
+Morreu,3,male,0,0,347464,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,345778,S,Jovem,Mr,0,0.0
+Sobreviveu,3,male,0,0,A/5. 10482,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,113056,S,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,349239,C,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,345774,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,349206,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,male,0,0,237798,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,370373,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,1,famale,0,0,19877,S,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,1,0,11967,C,Adulto Jovem,Mrs,1,2.0
+Morreu,2,male,0,0,SC/Paris 2163,C,Adulto,Mr,0,2.0
+Morreu,3,famale,0,0,349236,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,349233,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,PC 17612,C,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,2693,C,Adulto Jovem,Mr,0,0.0
+Morreu,1,famale,1,2,113781,S,Criança,Miss,1,2.0
+Sobreviveu,1,male,0,0,19988,S,Adulto,Mr,0,1.0
+Sobreviveu,1,famale,0,1,PC 17558,C,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,9234,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,3,male,2,0,367226,Q,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,LINE,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,0,226593,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,A/5 2466,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,1,2,113781,S,Criança,Master,1,2.0
+Sobreviveu,1,famale,0,0,17421,C,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,1,0,PC 17758,C,Jovem,Mrs,1,2.0
+Morreu,2,male,1,0,P/PP 3381,C,Adulto Jovem,Mr,1,0.0
+Sobreviveu,1,famale,0,0,PC 17485,C,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,0,0,11767,C,Adulto Jovem,Miss,0,2.0
+Sobreviveu,1,famale,2,2,PC 17608,C,Jovem,Miss,1,2.0
+Morreu,2,famale,1,1,250651,S,Adulto Jovem,Mrs,1,1.0
+Morreu,3,male,0,0,349243,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,1,1,F.C.C. 13529,S,Adulto,Mr,1,1.0
+Sobreviveu,3,famale,0,0,347470,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,2,famale,1,0,244367,S,Adulto Jovem,Mrs,1,1.0
+Morreu,2,male,0,0,29011,S,Idoso,Rare,0,0.0
+Sobreviveu,1,famale,0,2,36928,S,Adulto,Miss,1,2.0
+Sobreviveu,1,famale,1,1,16966,C,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,A/5 21172,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,349219,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,0,234818,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,2,famale,1,1,248738,S,Adulto Jovem,Mrs,1,1.0
+Morreu,3,male,8,2,CA. 2343,S,Adulto,Mr,1,2.0
+Sobreviveu,1,famale,0,0,PC 17760,C,Adulto,Miss,0,2.0
+Morreu,3,male,0,0,345364,S,Idoso,Mr,0,0.0
+Sobreviveu,2,famale,0,0,28551,S,Adulto,Mrs,0,0.0
+Sobreviveu,3,famale,1,1,363291,S,Adulto,Mrs,1,2.0
+Sobreviveu,1,famale,0,1,111361,C,Jovem,Miss,1,2.0
+Sobreviveu,3,famale,2,0,367226,Q,Adulto Jovem,Miss,1,0.0
+Morreu,1,male,0,0,113043,S,Adulto,Mr,0,1.0
+Morreu,1,male,0,1,PC 17582,S,Adulto,Mr,1,2.0
+Morreu,3,male,2,0,345764,S,Jovem,Mr,1,0.0
+Sobreviveu,1,famale,1,0,PC 17611,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,349225,S,Adulto,Mr,0,0.0
+Morreu,1,male,1,0,113776,S,Adulto Jovem,Mr,1,2.0
+Sobreviveu,1,famale,0,0,16966,C,Adulto,Miss,0,2.0
+Sobreviveu,3,male,0,0,7598,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,113784,S,Adulto,Mr,0,1.0
+Sobreviveu,2,male,1,1,230080,S,Criança,Master,1,1.0
+Sobreviveu,1,famale,3,2,19950,S,Adulto Jovem,Miss,1,2.0
+Morreu,2,male,0,0,248740,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,244361,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,229236,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,0,0,248733,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,2,famale,0,0,31418,S,Adulto,Miss,0,0.0
+Sobreviveu,3,famale,1,0,386525,S,Adulto,Mrs,1,0.0
+Sobreviveu,3,male,1,1,C.A. 37671,S,Criança,Master,1,0.0
+Morreu,3,male,0,0,315088,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,7267,S,Adulto Jovem,Mr,0,2.0
+Morreu,1,male,0,0,113510,S,Adulto,Mr,0,1.0
+Morreu,3,male,1,1,2695,C,Jovem,Mr,1,0.0
+Morreu,3,male,1,0,349237,S,Adulto Jovem,Mr,1,0.0
+Morreu,3,male,0,0,2647,C,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,345783,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,1,113505,S,Adulto Jovem,Miss,1,2.0
+Morreu,2,famale,0,0,237671,S,Adulto,Miss,0,0.0
+Sobreviveu,3,famale,0,0,330931,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,3,famale,0,0,330980,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,1,4,347088,S,Adulto,Mr,1,1.0
+Morreu,2,male,1,0,SC/PARIS 2167,C,Adulto Jovem,Mr,1,1.0
+Morreu,3,famale,0,1,2691,C,Adulto,Mrs,1,0.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101310,S,Adulto,Mr,0,0.0
+Morreu,3,male,1,0,370365,Q,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,C 7076,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,1,0,110813,C,Idoso,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,2626,C,Adulto,Mrs,0,0.0
+Sobreviveu,3,famale,0,0,14313,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,1,famale,0,0,PC 17477,C,Adulto Jovem,Mrs,0,2.0
+Sobreviveu,1,male,1,0,11765,C,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,1,0,3101267,S,Jovem,Mr,1,0.0
+Morreu,3,male,0,0,323951,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,PC 17760,C,Adulto Jovem,Mr,0,2.0
+Morreu,3,famale,3,1,349909,S,Criança,Miss,1,2.0
+Sobreviveu,1,famale,1,0,PC 17604,C,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,C 7077,S,Adulto Jovem,Miss,0,0.0
+Morreu,1,male,0,2,113503,C,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,2648,C,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,347069,S,Adulto Jovem,Mr,0,2.0
+Sobreviveu,1,famale,0,0,PC 17757,C,Adulto,Miss,0,2.0
+Sobreviveu,3,famale,0,2,2653,C,Criança,Miss,1,0.0
+Morreu,3,male,0,0,STON/O 2. 3101293,S,Adulto,Mr,0,2.0
+Sobreviveu,1,famale,1,0,113789,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,349227,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,S.O.C. 14879,S,Jovem,Mr,0,2.0
+Morreu,3,male,5,2,CA 2144,S,Criança,Master,1,1.0
+Sobreviveu,2,famale,0,0,27849,S,Adulto,Miss,0,0.0
+Morreu,3,male,0,0,367655,Q,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,0,0,SC 1748,C,Jovem,Miss,0,0.0
+Sobreviveu,1,male,1,2,113760,S,Adulto,Mr,1,2.0
+Sobreviveu,3,male,0,0,350034,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,2,0,3101277,S,Adulto Jovem,Mr,1,2.0
+Sobreviveu,1,famale,1,0,35273,C,Adulto Jovem,Miss,1,2.0
+Sobreviveu,3,famale,0,2,PP 9549,S,Adulto Jovem,Mrs,1,0.0
+Morreu,3,male,0,0,350052,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,0,0,350407,S,Adulto,Miss,0,0.0
+Morreu,2,male,0,0,28403,S,Adulto,Mr,0,1.0
+Morreu,2,male,0,0,244278,S,Adulto Jovem,Rare,0,0.0
+Sobreviveu,2,famale,0,0,240929,S,Adulto Jovem,Mrs,0,0.0
+Sobreviveu,3,male,0,0,STON/O 2. 3101289,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,341826,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,1,0,4137,S,Adulto Jovem,Miss,1,2.0
+Morreu,3,male,1,0,STON/O2. 3101279,S,Adulto Jovem,Mr,1,0.0
+Morreu,3,famale,0,0,315096,S,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,1,0,28664,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,347064,S,Idoso,Mr,0,0.0
+Sobreviveu,2,male,1,1,29106,S,Criança,Master,1,0.0
+Morreu,3,male,0,0,312992,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,famale,3,1,4133,S,Adulto Jovem,Miss,1,1.0
+Morreu,3,male,0,0,349222,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,394140,Q,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,1,0,19928,Q,Adulto,Miss,1,2.0
+Morreu,2,male,0,0,239853,S,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,STON/O 2. 3101269,S,Adulto,Mr,0,2.0
+Morreu,3,famale,0,0,343095,S,Adulto,Mrs,0,0.0
+Sobreviveu,2,famale,1,1,28220,S,Adulto,Mrs,1,1.0
+Sobreviveu,2,famale,0,2,250652,S,Jovem,Miss,1,0.0
+Morreu,2,male,0,0,28228,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,0,2,345773,S,Criança,Miss,1,0.0
+Morreu,3,male,0,0,349254,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,A/5. 13032,Q,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,315082,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,famale,1,1,347080,S,Adulto Jovem,Mrs,1,0.0
+Morreu,3,male,1,1,370129,S,Jovem,Mr,1,0.0
+Morreu,3,male,0,0,A/4. 34244,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,0,2003,S,Adulto Jovem,Mrs,1,1.0
+Sobreviveu,2,famale,0,0,250655,S,Adulto Jovem,Miss,0,1.0
+Morreu,3,male,0,0,364851,Q,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,SOTON/O.Q. 392078,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,110564,S,Adulto Jovem,Mr,0,1.0
+Sobreviveu,3,famale,1,0,376564,S,Adulto,Mrs,1,0.0
+Sobreviveu,2,famale,1,0,SC/AH 3085,S,Adulto,Mrs,1,1.0
+Morreu,3,male,0,0,STON/O 2. 3101274,S,Jovem,Mr,0,2.0
+Morreu,1,male,1,0,13507,S,Adulto,Mr,1,2.0
+Sobreviveu,1,famale,1,2,113760,S,Jovem,Miss,1,2.0
+Morreu,3,famale,2,2,W./C. 6608,S,Adulto Jovem,Miss,1,2.0
+Sobreviveu,2,famale,2,3,29106,S,Adulto Jovem,Mrs,1,0.0
+Morreu,1,male,1,4,19950,S,Idoso,Mr,1,2.0
+Morreu,2,male,0,0,C.A. 18723,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,1,F.C.C. 13529,S,Adulto,Mrs,1,1.0
+Morreu,3,male,0,0,345769,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,1,0,347076,S,Adulto Jovem,Mr,1,2.0
+Sobreviveu,2,famale,0,0,230434,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,3,male,0,0,65306,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,2,33638,S,Criança,Master,1,2.0
+Sobreviveu,2,famale,0,1,250644,S,Jovem,Miss,1,0.0
+Sobreviveu,1,male,0,0,113794,S,Adulto,Mr,0,1.0
+Sobreviveu,3,famale,2,1,2666,C,Criança,Miss,1,0.0
+Sobreviveu,1,male,0,0,113786,S,Idoso,Rare,0,1.0
+Morreu,2,male,1,2,C.A. 34651,S,Adulto,Mr,1,1.0
+Morreu,3,male,1,0,65303,S,Adulto,Mr,1,0.0
+Morreu,1,male,0,0,113051,C,Adulto Jovem,Mr,0,1.0
+Sobreviveu,1,male,1,0,17453,C,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,A/5 2817,S,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,349240,C,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,13509,S,Idoso,Mr,0,1.0
+Sobreviveu,1,famale,1,0,17464,S,Adulto,Mrs,1,2.0
+Sobreviveu,2,famale,0,0,F.C.C. 13531,S,Adulto,Miss,0,0.0
+Morreu,3,male,0,0,371060,Q,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,19952,S,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,364506,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,111320,S,Adulto,Mr,0,1.0
+Morreu,2,male,0,0,234360,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,A/S 2816,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101306,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,239853,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,113792,S,Idoso,Mr,0,1.0
+Morreu,3,male,0,0,36209,Q,Adulto,Mr,0,2.0
+Sobreviveu,3,famale,2,1,2666,C,Criança,Miss,1,0.0
+Morreu,3,male,0,0,323592,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,315089,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,2,C.A. 34651,S,Adulto,Mrs,1,1.0
+Sobreviveu,2,famale,0,0,SC/AH Basle 541,C,Adulto Jovem,Mrs,0,0.0
+Morreu,3,famale,0,0,7553,S,Adulto Jovem,Miss,0,0.0
+Morreu,1,male,0,0,110465,S,Adulto,Mr,0,2.0
+Morreu,2,male,1,0,31027,S,Adulto,Mr,1,0.0
+Morreu,3,male,1,0,3460,S,Adulto Jovem,Mr,1,0.0
+Morreu,3,male,0,0,350060,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,1,3101298,S,Criança,Miss,1,0.0
+Morreu,3,male,5,2,CA 2144,S,Criança,Master,1,1.0
+Morreu,2,male,0,0,239854,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,A/5 3594,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,4134,S,Idoso,Mrs,0,0.0
+Sobreviveu,1,male,1,0,11967,C,Adulto Jovem,Mr,1,2.0
+Morreu,3,famale,3,1,4133,S,Adulto Jovem,Miss,1,1.0
+Sobreviveu,1,famale,1,0,19943,S,Adulto,Mrs,1,2.0
+Morreu,1,male,0,0,11771,C,Idoso,Mr,0,1.0
+Morreu,3,male,0,0,A.5. 18509,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,male,1,1,C.A. 37671,S,Criança,Master,1,0.0
+Morreu,3,male,1,0,65304,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,SOTON/OQ 3101317,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,113787,S,Idoso,Mr,0,1.0
+Morreu,1,male,0,0,PC 17609,C,Idoso,Mr,0,1.0
+Morreu,3,male,0,0,A/4 45380,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,2627,C,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,1,0,36947,C,Idoso,Miss,1,2.0
+Morreu,3,male,0,0,C.A. 6212,S,Adulto,Mr,0,0.0
+Morreu,1,famale,1,2,113781,S,Adulto Jovem,Mrs,1,2.0
+Morreu,3,male,0,0,350035,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,315086,S,Jovem,Mr,0,0.0
+Morreu,3,famale,0,0,364846,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,famale,0,0,330909,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,famale,0,0,4135,S,Adulto,Miss,0,0.0
+Sobreviveu,1,famale,0,0,110152,S,Jovem,Miss,0,2.0
+Morreu,1,male,1,0,PC 17758,C,Jovem,Mr,1,2.0
+Sobreviveu,2,famale,0,2,26360,S,Adulto,Mrs,1,1.0
+Sobreviveu,1,male,0,0,111427,S,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,C 4001,S,Adulto Jovem,Mr,0,2.0
+Sobreviveu,3,male,0,0,1601,S,Adulto Jovem,Mr,0,2.0
+Sobreviveu,3,male,0,0,382651,Q,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/OQ 3101316,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,PC 17473,S,Adulto,Mr,0,1.0
+Sobreviveu,1,famale,1,0,PC 17603,C,Idoso,Mrs,1,2.0
+Morreu,3,male,0,0,349209,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,36967,S,Adulto,Mr,0,1.0
+Sobreviveu,2,famale,0,0,C.A. 34260,S,Adulto,Mrs,0,0.0
+Morreu,3,male,0,0,371110,Q,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,0,226875,S,Adulto,Mrs,1,1.0
+Morreu,3,male,0,0,349242,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,0,12749,S,Adulto Jovem,Miss,0,2.0
+Morreu,3,male,0,0,349252,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,2624,C,Adulto,Mr,0,2.0
+Sobreviveu,1,famale,0,1,111361,C,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,2700,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,367232,Q,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,0,0,W./C. 14258,S,Adulto,Miss,0,0.0
+Morreu,1,male,0,0,PC 17483,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,3101296,S,Adulto,Mr,0,2.0
+Morreu,2,male,2,1,29104,S,Adulto Jovem,Mr,1,0.0
+Sobreviveu,2,famale,1,1,26360,S,Criança,Miss,1,1.0
+Morreu,3,male,0,0,2641,C,Adulto,Mr,0,0.0
+Morreu,3,male,1,1,2690,C,Jovem,Mr,1,0.0
+Sobreviveu,3,famale,0,2,2668,C,Adulto,Mrs,1,0.0
+Morreu,3,famale,0,0,315084,S,Adulto Jovem,Miss,0,0.0
+Sobreviveu,2,famale,0,2,F.C.C. 13529,S,Criança,Miss,1,1.0
+Morreu,1,male,0,0,113050,S,Adulto,Rare,0,1.0
+Sobreviveu,1,famale,0,0,PC 17761,C,Adulto Jovem,Miss,0,2.0
+Morreu,3,male,0,0,364498,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,2,13568,C,Adulto Jovem,Miss,1,1.0
+Sobreviveu,1,famale,0,2,WE/P 5735,S,Adulto,Miss,1,2.0
+Morreu,3,famale,4,2,347082,S,Criança,Miss,1,2.0
+Morreu,3,famale,4,2,347082,S,Criança,Miss,1,2.0
+Sobreviveu,2,male,1,0,2908,S,Adulto,Mr,1,1.0
+Morreu,1,male,1,0,PC 17761,C,Adulto,Mr,1,2.0
+Morreu,1,male,0,0,693,S,Idoso,Mr,0,1.0
+Sobreviveu,2,famale,1,0,2908,S,Adulto Jovem,Mrs,1,1.0
+Sobreviveu,2,male,0,0,SC/PARIS 2146,C,Adulto,Mr,0,0.0
+Morreu,3,male,1,1,363291,S,Adulto,Mr,1,2.0
+Sobreviveu,2,male,1,1,C.A. 33112,S,Criança,Master,1,1.0
+Sobreviveu,1,male,0,2,17421,C,Jovem,Mr,1,2.0
+Morreu,2,male,0,0,244358,S,Adulto Jovem,Mr,0,1.0
+Morreu,3,male,0,0,330979,Q,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,2620,C,Adulto Jovem,Mr,0,2.0
+Sobreviveu,3,famale,0,0,347085,S,Adulto Jovem,Miss,0,2.0
+Morreu,1,male,0,0,113807,S,Idoso,Mr,0,1.0
+Sobreviveu,1,famale,1,0,11755,C,Adulto,Rare,1,1.0
+Morreu,1,male,0,0,PC 17757,C,Adulto,Mr,0,2.0
+Sobreviveu,1,famale,1,1,110413,S,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,1,0,345572,S,Adulto,Mrs,1,0.0
+Morreu,3,male,0,0,372622,Q,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,349251,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,218629,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/OQ 392082,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,0,SOTON/O.Q. 392087,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,2,0,A/4 48871,S,Adulto Jovem,Mr,1,0.0
+Morreu,3,male,0,0,349205,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,0,4,349909,S,Adulto Jovem,Mrs,1,2.0
+Morreu,3,male,0,0,2686,C,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,350417,S,Adulto,Mr,0,0.0
+Sobreviveu,2,male,0,0,S.W./PP 752,S,Idoso,Mr,0,0.0
+Sobreviveu,1,famale,2,0,11769,S,Idoso,Mrs,1,2.0
+Sobreviveu,1,male,0,0,PC 17474,S,Adulto,Mr,0,1.0
+Sobreviveu,3,famale,0,0,14312,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,A/4. 20589,S,Jovem,Mr,0,0.0
+Morreu,3,male,0,0,358585,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,0,243880,S,Adulto,Miss,0,0.0
+Sobreviveu,1,famale,1,0,13507,S,Adulto,Mrs,1,2.0
+Morreu,3,famale,1,0,2689,C,Adulto,Mrs,1,0.0
+Sobreviveu,3,male,0,0,STON/O 2. 3101286,S,Adulto,Mr,0,2.0
+Sobreviveu,2,famale,1,1,237789,S,Adulto Jovem,Miss,1,1.0
+Sobreviveu,1,famale,1,1,17421,C,Adulto,Mrs,1,2.0
+Morreu,2,male,0,0,28403,S,Idoso,Mr,0,1.0
+Morreu,1,male,0,0,13049,C,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,3411,C,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,2,110413,S,Jovem,Miss,1,2.0
+Morreu,2,male,0,0,237565,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,1,1,13567,C,Idoso,Mr,1,2.0
+Morreu,3,male,0,0,14973,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,A./5. 3235,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,STON/O 2. 3101273,S,Adulto,Mr,0,2.0
+Sobreviveu,1,famale,1,0,36947,C,Idoso,Mrs,1,2.0
+Morreu,3,male,0,0,A/5 3902,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,2,364848,Q,Adulto Jovem,Miss,1,0.0
+Morreu,2,male,1,0,SC/AH 29037,S,Adulto,Mr,1,1.0
+Morreu,3,male,1,1,345773,S,Adulto,Mr,1,0.0
+Sobreviveu,2,famale,0,0,248727,S,Adulto Jovem,Miss,0,1.0
+Morreu,3,male,0,0,LINE,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,2664,C,Adulto,Mr,0,2.0
+Sobreviveu,1,male,1,0,PC 17485,C,Adulto,Rare,1,2.0
+Sobreviveu,2,famale,2,1,243847,S,Adulto Jovem,Mrs,1,1.0
+Morreu,3,male,0,0,349214,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,113796,S,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,364511,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,111426,C,Adulto,Mr,0,1.0
+Morreu,3,male,1,0,349910,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,349246,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,male,0,0,113804,S,Adulto Jovem,Mr,0,1.0
+Sobreviveu,2,famale,1,2,SC/Paris 2123,C,Adulto Jovem,Mrs,1,1.0
+Sobreviveu,1,famale,0,0,PC 17582,S,Adulto,Miss,0,2.0
+Morreu,3,famale,1,5,347082,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101305,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,1,0,367230,Q,Adulto Jovem,Miss,1,0.0
+Morreu,3,male,0,0,370377,Q,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,364512,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,2,220845,S,Adulto Jovem,Miss,1,2.0
+Morreu,3,male,1,1,347080,S,Adulto,Mr,1,0.0
+Morreu,3,famale,1,0,A/5. 3336,S,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,2,famale,2,1,230136,S,Criança,Miss,1,1.0
+Morreu,2,male,0,0,31028,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,1,0,2659,C,Adulto Jovem,Mr,1,0.0
+Sobreviveu,1,male,1,0,11753,S,Adulto,Mr,1,2.0
+Sobreviveu,3,male,1,1,2653,C,Adulto Jovem,Mr,1,0.0
+Morreu,3,male,0,0,350029,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,54636,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,36963,S,Idoso,Mr,0,1.0
+Morreu,2,male,0,0,219533,Q,Idoso,Rare,0,0.0
+Sobreviveu,1,famale,0,0,13502,S,Adulto Jovem,Miss,0,2.0
+Morreu,3,male,0,0,349224,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,334912,Q,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,27042,S,Idoso,Mr,0,1.0
+Morreu,3,male,0,0,347743,S,Idoso,Mr,0,0.0
+Sobreviveu,1,male,0,0,13214,C,Adulto,Rare,0,1.0
+Morreu,1,male,0,0,112052,S,Adulto,Mr,0,0.0
+Morreu,3,famale,3,2,347088,S,Criança,Miss,1,1.0
+Sobreviveu,2,famale,0,0,237668,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,STON/O 2. 3101292,S,Adulto,Mr,0,2.0
+Morreu,2,male,1,1,C.A. 31921,S,Adulto,Mr,1,1.0
+Morreu,3,famale,0,5,3101295,S,Adulto,Mrs,1,1.0
+Morreu,3,male,1,0,376564,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,350050,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,0,PC 17477,C,Adulto Jovem,Miss,0,2.0
+Morreu,3,famale,3,2,347088,S,Criança,Miss,1,1.0
+Sobreviveu,3,male,0,0,1601,S,Adulto,Mr,0,2.0
+Sobreviveu,3,famale,2,1,2666,C,Criança,Miss,1,0.0
+Sobreviveu,1,male,1,0,PC 17572,C,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,349231,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,male,0,0,13213,C,Idoso,Rare,0,1.0
+Morreu,3,male,0,0,S.O./P.P. 751,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,CA. 2314,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,349221,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,0,1,231919,S,Jovem,Miss,1,0.0
+Morreu,3,male,0,0,8475,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,330919,Q,Adulto Jovem,Miss,0,0.0
+Morreu,3,famale,0,0,365226,Q,Jovem,Miss,0,0.0
+Morreu,2,male,2,0,S.O.C. 14879,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,349223,S,Adulto,Mr,0,0.0
+Morreu,3,famale,1,1,364849,Q,Adulto,Mrs,1,0.0
+Morreu,2,male,0,0,29751,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,2,35273,C,Idoso,Mr,1,2.0
+Sobreviveu,1,male,2,0,PC 17611,S,Adulto,Rare,1,2.0
+Morreu,3,male,0,0,2623,C,Adulto,Mr,0,2.0
+Morreu,1,male,0,0,5727,S,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,349210,S,Adulto,Mr,0,0.0
+Sobreviveu,3,male,1,0,STON/O 2. 3101285,S,Adulto Jovem,Mr,1,2.0
+Morreu,2,male,2,0,S.O.C. 14879,S,Adulto,Mr,1,2.0
+Morreu,2,male,0,0,234686,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,312993,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,A/5 3536,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,1,0,19996,S,Adulto,Mrs,1,2.0
+Sobreviveu,2,famale,1,1,29750,S,Adulto,Mrs,1,1.0
+Morreu,1,male,1,0,F.C. 12750,S,Adulto,Mr,1,2.0
+Morreu,2,male,0,0,C.A. 24580,S,Idoso,Mr,0,0.0
+Sobreviveu,2,male,0,0,244270,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,239856,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,349912,S,Jovem,Mr,0,2.0
+Morreu,3,male,0,0,342826,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,4138,S,Jovem,Miss,0,0.0
+Morreu,3,famale,1,6,CA 2144,S,Adulto,Mrs,1,1.0
+Sobreviveu,1,male,0,1,PC 17755,C,Adulto,Mr,1,2.0
+Morreu,3,famale,0,0,330935,Q,Adulto Jovem,Miss,0,0.0
+Sobreviveu,1,male,0,0,PC 17572,C,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,0,0,6563,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,5,2,CA 2144,S,Jovem,Mr,1,1.0
+Morreu,2,male,1,1,29750,S,Idoso,Mr,1,1.0
+Morreu,2,male,1,2,SC/Paris 2123,C,Adulto Jovem,Mr,1,1.0
+Morreu,3,male,4,1,3101295,S,Jovem,Mr,1,1.0
+Morreu,3,male,0,0,349228,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,350036,S,Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,1,24160,S,Jovem,Miss,1,2.0
+Sobreviveu,1,male,1,0,17474,S,Adulto,Mr,1,2.0
+Sobreviveu,3,famale,0,1,349256,C,Criança,Miss,1,0.0
+Sobreviveu,3,male,0,0,1601,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,2672,C,Adulto Jovem,Mr,0,2.0
+Morreu,1,male,0,0,113800,S,Idoso,Rare,0,1.0
+Morreu,2,male,0,0,248731,S,Idoso,Mr,0,0.0
+Morreu,3,male,0,0,363592,S,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,35852,Q,Adulto Jovem,Miss,0,0.0
+Morreu,1,male,1,1,17421,C,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,348121,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,1,0,PC 17757,C,Jovem,Mrs,1,2.0
+Sobreviveu,1,male,0,0,PC 17475,S,Adulto,Mr,0,1.0
+Morreu,3,famale,0,1,2691,C,Jovem,Miss,1,0.0
+Morreu,3,male,0,0,36864,Q,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,1,0,350025,S,Adulto Jovem,Mr,1,0.0
+Morreu,2,male,0,0,250655,S,Adulto,Mr,0,1.0
+Sobreviveu,2,famale,0,0,223596,S,Adulto,Mrs,0,0.0
+Sobreviveu,1,male,0,0,PC 17476,S,Adulto,Mr,0,1.0
+Sobreviveu,1,famale,0,0,113781,S,Adulto Jovem,Miss,0,2.0
+Sobreviveu,3,male,1,1,2661,C,Criança,Master,1,0.0
+Sobreviveu,1,famale,0,0,PC 17482,C,Adulto Jovem,Miss,0,1.0
+Morreu,1,male,0,0,113028,S,Adulto,Mr,0,1.0
+Sobreviveu,1,male,1,0,19996,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,7545,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,250647,S,Idoso,Mr,0,0.0
+Morreu,3,male,0,0,348124,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,0,PC 17757,C,Adulto,Miss,0,2.0
+Sobreviveu,2,famale,0,0,34218,S,Adulto Jovem,Miss,0,0.0
+Morreu,3,male,0,0,36568,Q,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,347062,S,Adulto,Mr,0,2.0
+Sobreviveu,2,famale,0,1,248727,S,Criança,Miss,1,1.0
+Morreu,3,male,1,0,350048,S,Jovem,Mr,1,0.0
+Morreu,2,male,0,0,12233,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,250643,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,1,0,113806,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,315094,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,3,0,31027,S,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,3,famale,0,0,36866,Q,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,1,0,236853,S,Adulto Jovem,Mr,1,1.0
+Morreu,3,famale,1,0,STON/O2. 3101271,S,Adulto Jovem,Miss,1,2.0
+Sobreviveu,1,famale,0,0,24160,S,Adulto Jovem,Miss,0,2.0
+Morreu,3,male,0,0,2699,C,Criança,Mr,0,0.0
+Morreu,2,male,0,0,239855,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,28425,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,233639,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,54636,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,1,3,W./C. 6608,S,Adulto,Mrs,1,2.0
+Sobreviveu,1,male,0,0,PC 17755,C,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,349201,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,349218,S,Adulto,Mr,0,0.0
+Sobreviveu,1,male,0,0,16988,S,Adulto,Mr,0,1.0
+Morreu,1,male,1,0,19877,S,Adulto,Mr,1,2.0
+Sobreviveu,1,famale,2,2,PC 17608,C,Adulto Jovem,Miss,1,2.0
+Morreu,3,male,1,0,376566,S,Adulto Jovem,Mr,1,0.0
+Sobreviveu,3,male,0,0,STON/O 2. 3101288,S,Adulto,Mr,0,2.0
+Morreu,1,male,1,1,WE/P 5735,S,Idoso,Rare,1,2.0
+Morreu,3,male,1,1,C.A. 2673,S,Jovem,Mr,1,0.0
+Sobreviveu,2,famale,0,0,250648,S,Adulto Jovem,Miss,0,0.0
+Morreu,1,male,1,0,113773,S,Adulto Jovem,Mr,1,2.0
+Morreu,3,male,0,0,335097,Q,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,1,29103,S,Criança,Miss,1,0.0
+Sobreviveu,3,male,0,1,392096,S,Criança,Master,1,2.0
+Morreu,3,male,0,0,345780,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,349204,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,1,2,220845,S,Adulto,Mrs,1,2.0
+Sobreviveu,2,male,1,1,250649,S,Criança,Master,1,0.0
+Morreu,3,male,0,0,350042,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,29108,S,Jovem,Mr,0,0.0
+Morreu,3,male,0,0,363294,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,0,110152,S,Adulto,Rare,0,2.0
+Morreu,3,male,0,0,358585,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/O2 3101272,S,Adulto,Mr,0,2.0
+Sobreviveu,3,male,0,0,2663,C,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,1,2,113760,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,347074,S,Jovem,Mr,0,2.0
+Sobreviveu,1,famale,1,0,13502,S,Idoso,Mrs,1,2.0
+Morreu,1,male,0,0,112379,C,Adulto,Rare,0,1.0
+Morreu,3,famale,0,0,364850,Q,Adulto,Miss,0,0.0
+Morreu,3,male,1,0,371110,Q,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,8471,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,345781,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,350047,S,Adulto,Mr,0,0.0
+Morreu,2,famale,0,0,S.O./P.P. 3,S,Idoso,Mrs,0,0.0
+Morreu,3,male,0,0,2674,C,Adulto,Mr,0,2.0
+Sobreviveu,2,famale,1,3,29105,S,Idoso,Mrs,1,0.0
+Morreu,3,male,0,0,347078,S,Jovem,Mr,0,0.0
+Morreu,3,male,0,0,383121,Q,Adulto,Mr,0,0.0
+Sobreviveu,3,famale,0,0,364516,S,Criança,Miss,0,2.0
+Morreu,3,male,0,0,36865,Q,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,1,24160,S,Adulto,Mrs,1,2.0
+Sobreviveu,3,famale,0,0,2687,C,Jovem,Miss,0,0.0
+Sobreviveu,1,famale,1,0,17474,S,Jovem,Mrs,1,2.0
+Morreu,1,male,0,0,113501,S,Adulto Jovem,Mr,0,1.0
+Morreu,3,male,1,2,W./C. 6607,S,Adulto,Mr,1,0.0
+Morreu,3,male,0,0,SOTON/O.Q. 3101312,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,374887,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,3,famale,0,0,3101265,S,Jovem,Miss,0,0.0
+Morreu,3,male,4,1,382652,Q,Criança,Master,1,2.0
+Sobreviveu,3,male,1,2,C.A. 2315,S,Criança,Master,1,2.0
+Morreu,1,male,0,0,PC 17593,C,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,12460,Q,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,239865,S,Jovem,Mr,0,1.0
+Morreu,3,famale,8,2,CA. 2343,S,Adulto Jovem,Miss,1,2.0
+Morreu,1,male,0,0,PC 17600,C,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,349203,S,Adulto Jovem,Mr,0,0.0
+Morreu,2,male,0,0,28213,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,0,17465,S,Adulto,Rare,0,1.0
+Sobreviveu,3,famale,0,0,349244,S,Adulto,Mrs,0,0.0
+Morreu,3,male,0,0,2685,C,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,1,1,345773,S,Adulto Jovem,Mrs,1,0.0
+Morreu,2,male,0,0,250647,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,1,C.A. 31921,S,Adulto,Mrs,1,1.0
+Sobreviveu,1,male,1,2,113760,S,Criança,Master,1,2.0
+Sobreviveu,3,male,0,1,2625,C,Criança,Master,1,0.0
+Sobreviveu,3,male,0,0,347089,S,Adulto Jovem,Mr,0,2.0
+Morreu,3,male,0,0,347063,S,Adulto,Mr,0,2.0
+Morreu,1,male,0,0,112050,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,0,347087,S,Jovem,Miss,0,2.0
+Morreu,2,male,0,0,248723,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,1,0,113806,S,Adulto,Mrs,1,2.0
+Morreu,3,male,0,0,3474,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,A/4 48871,S,Adulto,Mr,0,0.0
+Morreu,2,male,0,0,28206,S,Adulto,Mr,0,0.0
+Morreu,3,famale,4,2,347082,S,Criança,Miss,1,2.0
+Morreu,3,male,0,0,364499,S,Adulto,Mr,0,0.0
+Morreu,1,male,0,0,112058,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,0,STON/O2. 3101290,S,Adulto Jovem,Miss,0,2.0
+Morreu,2,male,1,1,S.C./PARIS 2079,C,Adulto,Mr,1,1.0
+Morreu,3,male,0,0,C 7075,S,Adulto,Mr,0,0.0
+Morreu,3,male,3,2,347088,S,Criança,Master,1,1.0
+Sobreviveu,1,famale,1,1,12749,S,Idoso,Mrs,1,2.0
+Sobreviveu,3,male,0,0,315098,S,Adulto Jovem,Mr,0,0.0
+Morreu,1,male,0,0,19972,S,Adulto,Rare,0,0.0
+Sobreviveu,3,famale,0,1,392096,S,Adulto Jovem,Mrs,1,2.0
+Morreu,3,male,4,1,3101295,S,Criança,Master,1,1.0
+Morreu,3,male,0,0,368323,Q,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,1601,S,Adulto,Mr,0,2.0
+Sobreviveu,2,male,0,2,S.C./PARIS 2079,C,Criança,Master,1,1.0
+Sobreviveu,3,male,0,0,367228,Q,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,0,113572,,Idoso,Mrs,0,2.0
+Sobreviveu,3,famale,1,0,2659,C,Jovem,Mrs,1,0.0
+Sobreviveu,2,male,1,1,29106,S,Criança,Master,1,0.0
+Morreu,3,male,0,0,2671,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,347468,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,2223,S,Jovem,Mr,0,0.0
+Sobreviveu,1,famale,1,1,PC 17756,C,Adulto,Miss,1,2.0
+Morreu,3,male,0,0,315097,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,392092,S,Adulto,Mr,0,0.0
+Sobreviveu,3,male,0,0,1601,S,Adulto,Mr,0,2.0
+Sobreviveu,1,male,0,0,11774,C,Adulto,Mr,0,1.0
+Morreu,3,male,0,0,SOTON/O2 3101287,S,Adulto Jovem,Mr,0,2.0
+Morreu,2,male,0,0,S.O./P.P. 3,S,Jovem,Mr,0,0.0
+Sobreviveu,1,famale,0,0,113798,C,Adulto Jovem,Miss,0,1.0
+Morreu,3,male,0,0,2683,C,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,315090,S,Jovem,Mr,0,0.0
+Morreu,3,male,0,0,C.A. 5547,S,Adulto,Mr,0,0.0
+Morreu,3,male,8,2,CA. 2343,S,Adulto,Mr,1,2.0
+Morreu,3,male,0,0,349213,C,Adulto,Mr,0,0.0
+Morreu,2,male,0,1,248727,S,Adulto Jovem,Rare,1,1.0
+Sobreviveu,1,famale,1,0,17453,C,Adulto,Mrs,1,2.0
+Morreu,3,male,4,2,347082,S,Criança,Master,1,2.0
+Morreu,3,male,0,0,347060,S,Idoso,Mr,0,2.0
+Morreu,3,famale,1,1,2678,C,Criança,Miss,1,0.0
+Sobreviveu,1,famale,0,1,PC 17592,S,Jovem,Miss,1,1.0
+Morreu,2,famale,1,0,244252,S,Adulto,Mrs,1,1.0
+Sobreviveu,3,famale,0,1,392091,S,Jovem,Mrs,1,0.0
+Sobreviveu,1,famale,1,1,36928,S,Adulto,Mrs,1,2.0
+Sobreviveu,1,male,0,0,113055,S,Idoso,Mr,0,1.0
+Sobreviveu,3,famale,0,3,2666,C,Adulto Jovem,Mrs,1,0.0
+Morreu,3,male,0,0,2629,C,Adulto,Mr,0,0.0
+Morreu,3,male,2,0,350026,S,Adulto,Mr,1,0.0
+Morreu,2,male,1,0,28134,S,Adulto Jovem,Mr,1,0.0
+Sobreviveu,1,famale,0,0,17466,S,Adulto,Mrs,0,1.0
+Morreu,3,famale,8,2,CA. 2343,S,Adulto Jovem,Miss,1,2.0
+Morreu,2,male,0,0,233866,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,2,famale,0,0,236852,S,Adulto,Mrs,0,0.0
+Sobreviveu,2,famale,1,0,SC/PARIS 2149,C,Adulto Jovem,Miss,1,0.0
+Morreu,1,male,0,0,PC 17590,S,Adulto,Mr,0,2.0
+Morreu,3,male,0,0,345777,S,Adulto,Mr,0,0.0
+Sobreviveu,3,male,1,1,347742,S,Criança,Master,1,0.0
+Morreu,3,male,0,0,349248,S,Adulto Jovem,Mr,0,0.0
+Sobreviveu,1,famale,1,1,11751,S,Adulto,Mrs,1,2.0
+Morreu,1,male,0,0,695,S,Adulto,Mr,0,0.0
+Morreu,3,male,0,0,345765,S,Adulto,Mr,0,0.0
+Sobreviveu,2,famale,1,0,P/PP 3381,C,Adulto Jovem,Mrs,1,0.0
+Sobreviveu,3,famale,0,0,2667,C,Jovem,Miss,0,2.0
+Morreu,3,male,0,0,7534,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,349212,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,349217,S,Adulto,Mr,0,0.0
+Sobreviveu,1,famale,0,1,11767,C,Idoso,Mrs,1,2.0
+Sobreviveu,2,famale,0,1,230433,S,Adulto Jovem,Mrs,1,1.0
+Morreu,3,male,0,0,349257,S,Adulto,Mr,0,0.0
+Morreu,3,famale,0,0,7552,S,Adulto Jovem,Miss,0,0.0
+Morreu,2,male,0,0,C.A./SOTON 34068,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,male,0,0,SOTON/OQ 392076,S,Adulto Jovem,Mr,0,0.0
+Morreu,3,famale,0,5,382652,Q,Adulto,Mrs,1,2.0
+Morreu,2,male,0,0,211536,S,Adulto Jovem,Rare,0,0.0
+Sobreviveu,1,famale,0,0,112053,S,Adulto Jovem,Miss,0,1.0
+Morreu,3,famale,1,2,W./C. 6607,S,Adulto Jovem,Miss,1,0.0
+Sobreviveu,1,male,0,0,111369,C,Adulto Jovem,Mr,0,1.0
+Morreu,3,male,0,0,370376,Q,Adulto,Mr,0,0.0
